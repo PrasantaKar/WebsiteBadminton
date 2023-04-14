@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  margin-bottom: auto;
+  width: 600px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+}
+
+html {
+  background: url("img/badminton.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+.colour {
+  color: maroon;
+  font-size: 50px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+}
+
+.write {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: maroon;
+  font-size: 30px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+a:hover {
+  background-color: darkred;
+}
